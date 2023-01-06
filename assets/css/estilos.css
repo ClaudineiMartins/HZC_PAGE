@@ -21,10 +21,12 @@ body{
 .cabecalho__menu i::before{
     content: "\e904";
     font-size: 24px;
+    cursor: pointer;
 }
 .cabecalho__notificacao i::before{
     content: "\e906";
     font-size: 24px;
+    cursor: pointer;
 }
 .cabecalho__logo{
     width: 40px;
@@ -166,6 +168,7 @@ padding: 16px;
 .cartao__botao--destaque{
     width: 100%;
     grid-column: span 2;
+    cursor: pointer;
 
 }
 .cartao__botao--destaque::before{

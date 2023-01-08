@@ -68,7 +68,7 @@ body{
         color: #95999C;
         padding: 8px 32px;
         border-right: 1px solid #95999C;
-
+        /* grid-row: 1; */
     }
     .cabecalho__perfil::before{
         content: "";

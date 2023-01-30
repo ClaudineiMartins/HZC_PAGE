@@ -41,7 +41,7 @@ body{
     display: none;
 
 }
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 640px){
     .cabecalho {
         background-color: #1D232A;
         display: grid;
@@ -177,7 +177,7 @@ padding: 16px;
     font-size: 1.2rem;
     font-weight: 700;
 }
-@media screen and (min-width:1440px) {
+@media screen and (min-width:720px) {
     .principal {
         display: grid;
         grid-template-columns: auto 1fr auto;
